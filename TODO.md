@@ -15,6 +15,9 @@
   - Email to Danny and he'll upload
 
     
+#### What people are currently adding/changing 
+
+- Danny: activation functions/layers to try to fix the saturation issue 
 
 #### Possible things to add 
 
