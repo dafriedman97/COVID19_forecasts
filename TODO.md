@@ -15,10 +15,15 @@
   - Email to Danny and he'll upload
 
     
+#### What people are currently adding/changing 
 
-#### Possible things to add 
+- Danny: activation functions/layers to try to fix the saturation issue 
+
+#### Possible things to add/change
 
 - Add other data, e.g. U.S. [census stuff](https://data.census.gov/cedsci/advanced?tid=GOVSTIMESERIES.CG00ORG01)
+
+- Log transform outcome 
 
 - Change outcome to per-capita (requires getting population data somehow)
 
